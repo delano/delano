@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 🔒
+
+Creator of Onetime Secret. Engineering leader and expert in high-performing teams and secure systems. Former VP Engineering at health tech startups. Passionate about privacy and open source. Aiming to develop essential web security tools full-time.
 
 <!--
 **delano/delano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
